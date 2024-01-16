@@ -1,5 +1,5 @@
 <h1>Academia Digital </h1>
-<strong>Conhecendo o Projeto Spring Data JPA na Prática</strong> oferecido gratuitamente pela plataforma de cursos online <a href="https://dio.me/"><strong> Digital Innovation One</strong></a>.<br>
+<strong>Conhecendo o Projeto Spring Data JPA na Prática</strong> oferecido pela plataforma de cursos online <a href="https://dio.me/"><strong> Digital Innovation One</strong></a>.<br>
 
 <h2>🛠 Tecnologias Utilizadas</h2>
 
